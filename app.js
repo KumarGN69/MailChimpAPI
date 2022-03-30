@@ -37,7 +37,7 @@ app.post("/",function(req,res){
 	};
 	const jsonData = JSON.stringify(data);
 	
-	const url = "https://us14.api.mailchimp.com/3.0/lists/1afc537425";
+	const url = "https://us14.api.mailchimp.com/3.0/lists/1afc537426";
 	const options = {
 		method: "POST",
 		auth: "KumarGN1969:67ced35c6c8942de3bc7d9c61cfe7e1c-us14"
