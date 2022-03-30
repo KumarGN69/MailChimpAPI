@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ```
 ┌───────────────────────────────────────────────┐
                                        _       
@@ -45,3 +46,6 @@ goormIDE is a powerful cloud IDE service to maximize productivity for developers
 
 Visit [https://ide.goorm.io](https://ide.goorm.io) to support and learn more about using goormIDE.  
 To watch some usage guides, visit [https://help.goorm.io/en/goormide](https://help.goorm.io/en/goormide)
+=======
+# MailChimpAPI
+>>>>>>> aef4f491d69266c3b7c6557e001cec2d47fc5d1c
